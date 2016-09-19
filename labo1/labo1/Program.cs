@@ -46,8 +46,8 @@ namespace labo1
 
             List<Pupil> listPupils = new List<Pupil>()
             {
-                new Pupil("2000",10,2),
-                new Pupil("1995",5,1),
+                new Pupil("bouvreuil",10,2),
+                new Pupil("benja",5,1),
                 new Pupil("nono", 4),
                 new Pupil("anto", 8),
             };
