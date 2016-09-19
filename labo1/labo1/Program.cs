@@ -44,13 +44,20 @@ namespace labo1
                 }
             }
 
-            List<Pupil>listPupils = new List<Pupil>()
+            List<Pupil> listPupils = new List<Pupil>()
             {
                 new Pupil("2000",10,2),
                 new Pupil("1995",5,1),
-                 new Pupil("nono", 4),
-                  new Pupil("anto", 8),
-            } 
+                new Pupil("nono", 4),
+                new Pupil("anto", 8),
+            };
+
+            List<Person> listPerson = new List<Person>()
+            {
+                new labo1.Person("coco", 21),
+            };
+
+            var listFusion = listPerson.Union(listPupils);
 
             System.Console.Read();
         }
