@@ -54,7 +54,7 @@ namespace labo1
 
             List<Person> listPerson = new List<Person>()
             {
-                new labo1.Person("coco", 21),
+                new labo1.Person("coco", 21),   
             };
 
             var listFusion = listPerson.Union(listPupils);
