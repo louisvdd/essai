@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labo 3", "Labo 3\Labo 3.csproj", "{DCCFF141-26DF-491C-AE2B-14A7F233BD50}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{D26256ED-A20D-4E96-92CB-B68B62795C87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFClient", "..\..\..\..\..\..\..\..\Downloads\WPFClient\WPFClient.csproj", "{8A3822D2-71BB-488C-BBFA-C9C75E77F668}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{DCCFF141-26DF-491C-AE2B-14A7F233BD50}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DCCFF141-26DF-491C-AE2B-14A7F233BD50}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DCCFF141-26DF-491C-AE2B-14A7F233BD50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D26256ED-A20D-4E96-92CB-B68B62795C87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D26256ED-A20D-4E96-92CB-B68B62795C87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D26256ED-A20D-4E96-92CB-B68B62795C87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D26256ED-A20D-4E96-92CB-B68B62795C87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A3822D2-71BB-488C-BBFA-C9C75E77F668}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A3822D2-71BB-488C-BBFA-C9C75E77F668}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A3822D2-71BB-488C-BBFA-C9C75E77F668}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A3822D2-71BB-488C-BBFA-C9C75E77F668}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
